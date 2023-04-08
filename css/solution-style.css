@@ -15,7 +15,7 @@ color: #A86BB3;
 	color:#A86BB3; 
     }
 
-.navbar-dark .navbar-toggler-icon::after {
+.navbar-dark .navbar-toggler-icon:after {
         font-size: 22px;
         color: #333;
 
