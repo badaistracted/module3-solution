@@ -6,16 +6,16 @@
 .navbar{
 
 border: none;
-background-color: black;
-color: #FDF4F5;
+background-color: #FDF4F5;
+color: #C93173;
 }
 body{
-	background-color: #FDF4F5;
-	color: #C0DBEA;
+	background-color: #A86BB3;
+	color: #D4E7F2;
 }
 .glyphicon{
 	font-size: 30px;
-	color:#FDF4F5; 
+	color:#C93173; 
 }
 
 .center{
@@ -25,7 +25,7 @@ body{
 }
 .container
 {
-	background-color: #BA90C6;
+	background-color: #E8A0BF;
 }
 .text-center{
 	font-size: 30px;
