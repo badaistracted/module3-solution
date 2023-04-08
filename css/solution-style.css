@@ -9,6 +9,11 @@ border: none;
 background-color: #FDF4F5;
 color: #A86BB3;
 }
+
+.navbar-toggle{
+	color: #3277B3
+}
+
 body{
 	background-color: #A86BB3;
 	color: #FDF4F5;
