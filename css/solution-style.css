@@ -10,9 +10,14 @@ background-color: #FDF4F5;
 color: #A86BB3;
 }
 
-.button.navbar-toggle{
-	color: #A86BB3
-}
+.navbar-dark .navbar-toggler-icon {
+        background-image: none;
+	color:#A86BB3; 
+    }
+
+.navbar-dark .navbar-toggler-icon::after {
+        font-size: 22px;
+        color: #333;
 
 body{
 	background-color: #A86BB3;
